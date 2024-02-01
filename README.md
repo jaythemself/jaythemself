@@ -1,4 +1,4 @@
-- 👋 Hi there! I’m Jay
+Hi there! I’m Jay
 - 👀 I’m interested in front-end development, mobile development, and game development
 - 🌱 I’m currently learning C# and further polishing my skill with Java, JavaScript, React, and Spring Boot!
 - 💞️ I’m looking to collaborate on personal projects and small game projects
